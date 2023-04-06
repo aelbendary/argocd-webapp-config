@@ -8,7 +8,7 @@ image:
   repository: aelbendary/argocd-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 99b6ac39e7691e4271d8b08e2f98c9fc7ecd426f
+  tag: fc235f5d05b1091596f1ae9ed18216401207098f
 
 imagePullSecrets: []
 nameOverride: ""
